@@ -29,7 +29,7 @@
 
 >  <a href="https://ilnur-k.atlassian.net/l/cp/BWMMY8wi">Ссылка на проект</a>
 > <p> логин: ilnurium@yandex.ru </p>
-> <p> пароль: jiKx6VkcnR)6=?D </p>
+> <p> пароль: C6ZMcvTLVG72Uwe </p>
 
  <p>Выводы (итоги):<p>
     <p>В этом проекте я получил следующие навыки: <p>
