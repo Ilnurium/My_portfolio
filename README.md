@@ -41,4 +41,4 @@
 </ol>
 
 ## Контактная информация
-- Email: ilnurium@yandex.ru
+- Email: ilnur.kazyrguloff@gmail.com
